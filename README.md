@@ -6,7 +6,7 @@
 ### 📫 How to reach me 
  - Andrew@Edwards.codes
 
-<!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"> -->
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 
 | <a href="https://github.com/andrew87e/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew87e&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Andrew's GitHub Streak"></a> | <a href="https://github.com/andrew87e/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew87e&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Andrew's GitHub Streak"></a> |
