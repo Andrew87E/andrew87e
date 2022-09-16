@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Andrew
+## Hi there <img align="center" src="./assets/waving-hi.gif" alt="Wave" width="32" height="48"> I'm Andrew
 
 <!-- - 🔭 I’m currently working on a lot! -->
 <!-- - 🌱 I’m currently learning  -->
