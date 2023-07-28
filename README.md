@@ -1,8 +1,7 @@
 ## Hi there <img align="center" src="./assets/giphy.gif" alt="Wave" width="32" height="48"> I'm Andrew
 
-<!-- - 🔭 I’m currently working on a lot! -->
-<!-- - 🌱 I’m currently learning  -->
-<!-- - 👯 I’m looking to collaborate on ... -->
+
+🌱 I’m currently learning swift! 
 
 ### 📫 How to reach me
 - Andrew@Edwards.codes
