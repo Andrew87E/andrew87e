@@ -1,8 +1,5 @@
 ## Hi <img align="center" src="./assets/giphy.gif" alt="Wave" width="32" height="48"> I'm Andrew
 
-
-🌱 I’m currently learning swift! 
-
 ### 📫 How to reach me
 - Andrew@Edwards.codes
 
@@ -27,7 +24,5 @@
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=andrew87e&theme=chartreuse-dark&border_radius=50)](https://git.io/streak-stats) -->
-
-[![Andrew's github activity graph](https://activity-graph.herokuapp.com/graph?username=andrew87e&theme=chartreuse-dark)](https://github.com/andrew87e/github-readme-activity-graph)
 
 <!-- <a href="https://www.edwards.codes"><img align="center" src="./assets/115434.png" alt="Andrew's Portfolio"></a> -->
