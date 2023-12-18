@@ -1,4 +1,4 @@
-## Hi there <img align="center" src="./assets/giphy.gif" alt="Wave" width="32" height="48"> I'm Andrew
+## Hi <img align="center" src="./assets/giphy.gif" alt="Wave" width="32" height="48"> I'm Andrew
 
 
 🌱 I’m currently learning swift! 
