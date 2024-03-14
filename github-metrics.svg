@@ -34,13 +34,13 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -1088,7 +1088,12 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4 0,1.4 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4 1.7,2.4 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
+                            <g transform="translate(-3.4, 7.6)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4 0,1.4 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4 1.7,2.4 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
@@ -1112,14 +1117,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="318.0620961159921" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="318.0620961159921" y="0" width="66.81459695616688" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="384.876693072159" y="0" width="59.563429833405344" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="444.44012290556435" y="0" width="4.661174324259446" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.1012972298238" y="0" width="3.698595227807384" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="452.7998924576312" y="0" width="2.608146334437563" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="455.40803879206874" y="0" width="2.5638446396850547" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="457.9718834317538" y="0" width="2.0281165682461952" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="318.0481703427264" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="318.0481703427264" y="0" width="66.81167159995682" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="384.8598419426832" y="0" width="59.58096222394026" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="444.4408041666234" y="0" width="4.660970243177216" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.10177440980067" y="0" width="3.6984332915088647" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="452.8002077013095" y="0" width="2.608032141470401" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="455.40823984277995" y="0" width="2.563732386387422" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="457.9719722291673" y="0" width="2.028027770832637" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1189,7 +1194,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Andrew87E/superplate</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Feb 12 2024</span>
                                     </div>
                                 </div>
                                 <div class="field description">A well-structured production-ready frontend boilerplate with Typescript, Jest, testing-library, styled-component, Sass, Css, .env, Fetch, Axios, Reverse Proxy, Bundle Analyzer and 30+ plugin. For now, only creates projects for React and Next.js. https://pankod.github.io/superplate/</div>
@@ -1236,7 +1241,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aclap-dev/video-downloadhelper</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Feb 12 2024</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download Helper</div>
