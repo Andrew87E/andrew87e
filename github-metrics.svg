@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -1088,7 +1088,12 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
+                            <g transform="translate(-3.4, 6.9411764705882355)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.0588235294117645 0,2.0588235294117645 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.0588235294117645 1.7,3.0588235294117645 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
@@ -1112,14 +1117,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.41118579512968" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="184.41118579512968" y="0" width="161.808496270051" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="346.2196820651807" y="0" width="43.97513517407179" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="390.1948172392524" y="0" width="28.845755241512506" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="419.040572480765" y="0" width="14.353086831051543" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="433.3936593118165" y="0" width="13.199778499106342" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="446.59343781092286" y="0" width="7.29220559965064" height="8" fill="#a53b70"/>
-                    <rect mask="url(#languages-bar)" x="453.88564341057355" y="0" width="6.114356589426484" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.58669712913849" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="184.58669712913849" y="0" width="161.70544700400495" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="346.2921441331435" y="0" width="43.94712919472939" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="390.23927332787287" y="0" width="28.82738455038872" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="419.0666578782616" y="0" width="14.343945932411916" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="433.41060381067354" y="0" width="13.191372095748923" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="446.60197590642247" y="0" width="7.287561489778642" height="8" fill="#a53b70"/>
+                    <rect mask="url(#languages-bar)" x="453.8895373962011" y="0" width="6.110462603798976" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1189,7 +1194,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>peterlevi/variety-slideshow</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pan-and-zoom image slideshow in Python, using Clutter. Integrates nicely with Variety.</div>
